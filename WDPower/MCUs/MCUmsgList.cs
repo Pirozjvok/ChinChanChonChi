@@ -1,0 +1,12 @@
+namespace MCUs
+{
+	public enum MCUmsgList : uint
+	{
+		ID_MCUA01 = 201893872u,
+		ID_MCUA02 = 201959408u,
+		ID_MCUA03 = 202024944u,
+		ID_MCUB01 = 201893873u,
+		ID_MCUB02 = 201959409u,
+		ID_MCUB03 = 202024945u
+	}
+}

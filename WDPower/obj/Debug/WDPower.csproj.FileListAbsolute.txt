@@ -1,0 +1,13 @@
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.csproj.AssemblyReference.cache
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.csproj.SuggestedBindingRedirects.cache
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.Properties.Resources.resources
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.csproj.GenerateResource.cache
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.csproj.CoreCompileInputs.cache
+C:\Users\AynurV\source\repos\WDPower\WDPower\bin\Debug\WDPower.exe.config
+C:\Users\AynurV\source\repos\WDPower\WDPower\bin\Debug\WDPower.exe
+C:\Users\AynurV\source\repos\WDPower\WDPower\bin\Debug\WDPower.pdb
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.exe
+C:\Users\AynurV\source\repos\WDPower\WDPower\obj\Debug\WDPower.pdb
+C:\Users\AynurV\source\repos\WDPower\WDPower\bin\Debug\Config.ini
+C:\Users\AynurV\source\repos\WDPower\WDPower\bin\Debug\data.bin
+C:\Users\AynurV\source\repos\WDPower\WDPower\bin\Debug\para.cfg
